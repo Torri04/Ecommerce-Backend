@@ -94,7 +94,7 @@ To run the Application locally, use the following command:
 dotnet run
 ```
 
-To run the Azure Function locally and automatically rebuild on changes, use the following command:
+To run the Application locally and automatically rebuild on changes, use the following command:
 ```bash
 dotnet watch run
 ```
