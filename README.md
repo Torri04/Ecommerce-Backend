@@ -3,11 +3,10 @@
 This project is .NET Core API for an e-commerce platform. It provides endpoints for managing products, orders, shopping carts, wish lists, and more. The API integrates with Azure services for storage, queuing, and messaging, and uses JWT for authentication. 
 
 ## Table of Contents
+- [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Setup](#setup)
-- [Configuration](#configuration)
-- [Running the Function](#running-the-function)
-- [Deploying to Azure](#deploying-to-azure)
+- [Run the Application](#run-the-application)
 
 ## Features
 
