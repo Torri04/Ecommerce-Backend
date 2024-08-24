@@ -87,6 +87,19 @@ Create a appsettings.json file in the root of the project with the following con
 }
 ```
 
+## Run the Application
+
+To run the Application locally, use the following command:
+
+```bash
+dotnet run
+```
+
+To run the Azure Function locally and automatically rebuild on changes, use the following command:
+```bash
+dotnet watch run
+```
+
 
 
  
