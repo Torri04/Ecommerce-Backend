@@ -45,10 +45,20 @@ Before running the project, ensure you have the following installed:
     ```bash
     dotnet build
     ```
-4. **Run the project**:
-    ```bash
-    dotnet run
-    ```
+   
+### **Docker**
+
+Change to the Docker directory where your Docker configuration files are located:
+
+```bash
+cd Docker
+```
+
+Run docker Compose
+
+```bash
+docker-compose up -d
+```
 
 ### **Configuration**
    
@@ -77,19 +87,6 @@ Create a appsettings.json file in the root of the project with the following con
 }
 ```
 
-### **Docker**
-
-Change to the Docker directory where your Docker configuration files are located:
-
-```bash
-cd Docker
-```
-
-Run docker Compose
-
-```bash
-docker-compose up -d
-```
 
 
  
