@@ -1,4 +1,4 @@
-# ECommerce Backend .NET Core API
+# ECommerce Backend with .NET Core API
 
 This project is .NET Core API for an e-commerce platform. It provides endpoints for managing products, orders, shopping carts, wish lists, and more. The API integrates with Azure services for storage, queuing, and messaging, and uses JWT for authentication. 
 
