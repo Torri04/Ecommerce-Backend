@@ -15,7 +15,7 @@ This project is .NET Core API for an e-commerce platform. It provides endpoints 
 - **Azure Integration**:
   - **Azure Blob Storage**: For storing and managing images.
   - **Azure Queue Storage**: For handling background tasks and messaging.
-  - **[Azure Function](https://github.com/Torri04/Azure-Function/edit/master/README.md)**: For serverless operations. 
+  - **[Azure Function](https://github.com/Torri04/Azure-Function)**: For serverless operations. 
   - **Azure Container Instances**: For deploying containers.
 - **Database**: SQL Server, with Docker support for local development and deployment.
 
